@@ -5,7 +5,7 @@ go 1.21.13
 require (
 	github.com/kamalyes/go-config v0.5.2
 	github.com/kamalyes/go-toolbox v0.11.31
-	github.com/kamalyes/gosh v0.0.1
+	github.com/kamalyes/gosh v0.1.0
 	github.com/stretchr/testify v1.10.0
 )
 
