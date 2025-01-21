@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/kamalyes/go-config v0.5.2
-	github.com/kamalyes/go-toolbox v0.11.31
+	github.com/kamalyes/go-toolbox v0.11.32
 	github.com/kamalyes/gosh v0.1.1
 	github.com/stretchr/testify v1.10.0
 )
